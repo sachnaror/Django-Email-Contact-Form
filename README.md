@@ -32,5 +32,4 @@ $ source .venv/bin/activate
 (.venv) $ python manage.py runserver
 
 
-**If you open you browser to [127.0.0.1:8000](http://127.0.0.1:8000/) you should see the default django launch screen we all are familiar with. Happy coding!
-**
+**If you open you browser to [127.0.0.1:8000](http://127.0.0.1:8000/) you should see the default django launch screen we all are familiar with. Happy coding**
